@@ -6,8 +6,6 @@
 
 🤓 graduando no curso de Bacharelado em Sistemas de Informação (CEFET-MG)
 
-😜 focando em aprender novas lingaugens de programação
-
 ___
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasotaviorafael&show_icons=true&theme=transparent)
