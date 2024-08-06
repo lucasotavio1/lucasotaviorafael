@@ -4,7 +4,7 @@
 
 🎂 tenho 21 anos
 
-🤓 graduando no curso de Bacharelado em Sistemas de Informação (CEFET-MG)
+🤓 atualmente graduando no curso de Bacharelado em Sistemas de Informação (CEFET-MG)
 
 ___
 
