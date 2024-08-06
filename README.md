@@ -1,5 +1,12 @@
-## oi, eu sou o Lucas!
+<div align="center">
+  <h2> oi, eu sou o Lucas! </h2>
+</div>
 
+🎂 21 anos
+
+🤓 graduando no curso de Bacharelado em Sistemas de Informação (CEFET-MG)
+
+___________________________________________________________________________
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasotaviorafael&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasotaviorafael&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
