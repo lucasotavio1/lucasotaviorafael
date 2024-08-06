@@ -9,7 +9,7 @@
 ___________________________________________________________________________
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasotaviorafael&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasotaviorafael&theme=merko)](https://github.com/lucasotavirafael/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasotaviorafael&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
  
