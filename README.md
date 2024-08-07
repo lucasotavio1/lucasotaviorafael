@@ -8,9 +8,9 @@
 
 ___
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasotaviorafael&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasotavio1&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasotaviorafael&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasotavio1&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
 
    <img align="center" alt="Lucas-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
