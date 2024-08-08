@@ -6,6 +6,8 @@
 
 🤓 atualmente graduando no curso de Bacharelado em Sistemas de Informação ([CEFET-MG](https://www.cefetmg.br/))
 
+🌱 focando em aprender novas linguagens de programação (C, C++, C#)
+
 ___
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasotavio1&show_icons=true&theme=transparent)
@@ -14,5 +16,7 @@ ___
 <div style="display: inline_block"><br>
 
    <img align="center" alt="Lucas-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+   <img align="center" alt="Lucas-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+   <img align="center" alt="Lucas-cs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   
 </div>
